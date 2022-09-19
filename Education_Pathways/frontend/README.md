@@ -1,6 +1,3 @@
-Yicheng Wei
-This repo is a clone of https://github.com/ECE444-2022Fall/Assignment_1_starter_template
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
